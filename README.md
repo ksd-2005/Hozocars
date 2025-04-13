@@ -1,1 +1,1 @@
-Internship assignment for hozo cars
+a car rental application frontend, using React-native
